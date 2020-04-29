@@ -1,0 +1,56 @@
+body {
+  padding: 10px;
+  font: 22px "Reenie Beanie", Helvetica, Arial, sans-serif;
+  background-color: black;
+  color: white;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.navbar-right{
+  margin-right: 10px;
+}
+
+.poster img{
+  width: 90%;
+  text-align: center;
+  margin: 10px 5% 10px;
+  border-radius: 15px;
+}
+
+#search-form input{
+  margin: 8px 0px;
+  padding: 5px;
+}
+
+.form-group select{
+  min-width: 150px;
+}
+
+.single-movie-title, .overview-header{
+  font-family: 'Reenie Beanie', cursive;
+}
+
+.overview-header{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.single-movie-overview{
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+.btn-navbar{
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  width: 100px;
+}
+
+h1{
+  font-size: 40px;
+}
