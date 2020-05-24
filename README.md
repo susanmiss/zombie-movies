@@ -5,8 +5,9 @@ I created that project in order to learn more about fetching APis, express and r
 
 ## Technologies
 
-Express - ejs as an engine template- , Node.js.
-External Api integration.
+- Express - ejs as an engine template- 
+- Node.js.
+- External Api integration.
 
 ## Installation
 
